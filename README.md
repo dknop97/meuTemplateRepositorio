@@ -1,6 +1,4 @@
 # Testes de formatação do readme
-
-![progress](https://progressed.io/bar/55?title=completed"progress")
 ________________________ 
 <h1>Lorem ipsum dolor sit amet
 <h2>Lorem ipsum dolor sit amet
@@ -65,7 +63,7 @@ ________________________
 ________________________
 <h4> Imagens
 
-![imagem?](url da imagem) 
+![placeholder](url da imagem) 
 ![NodeMCU Amica](https://images.tcdn.com.br/img/editor/up/557243/ScreenHunter_639.jpg)
 
 ________________________
