@@ -46,8 +46,8 @@ ________________________
 ________________________
 <h4> Links</h4>
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+- http://github.com 
+- automatico: [GitHub](http://github.com)
 ________________________
 <h4> Lista de Tarefas</h4>
 
