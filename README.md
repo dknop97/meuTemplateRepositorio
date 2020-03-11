@@ -45,21 +45,23 @@ ________________________
 1. Item 4
 ________________________
 
-<h4> Imagens</h4>
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-não funfou!
-________________________
-
 <h4> Links</h4>
 http://github.com - automatic!
 [GitHub](http://github.com)
 ________________________
 
 <h4> Lista de Tarefas</h4>
+MD_FLAG_TASKLISTS
 - [ ] Tarefa 1
 - [X] Tarefa 2
 - [ ] \(Optional) Open a followup issue
+---
+* [ ] Tarefa 1
+* [X] Tarefa 2
+* [ ] \(Optional) Open a followup issue
+---
+1. [ ] Tarefa 1
+2. [X] Tarefa 2
+3. [ ] \(Optional) Open a followup issue
 ________________________
 
