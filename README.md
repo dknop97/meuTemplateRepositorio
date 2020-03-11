@@ -53,9 +53,13 @@ ________________________
  
 1. [ ] Tarefa 1
 2. [X] Tarefa 2
-3. [ ] \(Optional) Open a followup issue
+3. [ ] \(Optional) Tarefa 3
+4. [X] Tarefa 4
 ________________________
 <h4> Imagens
 
 ![imagem?](url da imagem) 
 ![NodeMCU Amica](https://images.tcdn.com.br/img/editor/up/557243/ScreenHunter_639.jpg)
+
+________________________
+<h4> -
