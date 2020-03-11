@@ -49,18 +49,13 @@ ________________________
 http://github.com - automatic!
 [GitHub](http://github.com)
 ________________________
-
 <h4> Lista de Tarefas</h4>
-- [ ] Tarefa 1
-- [X] Tarefa 2
-- [ ] \(Optional) Open a followup issue
----
-* { } Tarefa 1
-* [X] Tarefa 2
-* [ ] \(Optional) Open a followup issue
----
+ 
 1. [ ] Tarefa 1
 2. [X] Tarefa 2
 3. [ ] \(Optional) Open a followup issue
 ________________________
+<h4> Imagens
 
+![imagem?](url da imagem) 
+![NodeMCU Amica](https://images.tcdn.com.br/img/editor/up/557243/ScreenHunter_639.jpg)
