@@ -51,12 +51,11 @@ http://github.com - automatic!
 ________________________
 
 <h4> Lista de Tarefas</h4>
-MD_FLAG_TASKLISTS
 - [ ] Tarefa 1
 - [X] Tarefa 2
 - [ ] \(Optional) Open a followup issue
 ---
-* [ ] Tarefa 1
+* { } Tarefa 1
 * [X] Tarefa 2
 * [ ] \(Optional) Open a followup issue
 ---
