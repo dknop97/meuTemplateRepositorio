@@ -1,5 +1,4 @@
-<h1>testes de formatação do readme
-  
+<h1>testes de formatação do readme</h1>
 ________________________ 
 <h1>Lorem ipsum dolor sit amet
 <h2>Lorem ipsum dolor sit amet
@@ -27,6 +26,8 @@ __Lorem ipsum dolor sit amet__
 _**Lorem** ipsum_ dolor ippnurium _**sit** amet_
 
 ***Lorem ipsum dolor sit amet***
+
+~~Lorem ipsum dolor sit amet~~ 
 ________________________
 
 * Item 1
@@ -57,13 +58,6 @@ http://github.com - automatic!
 ________________________
 
 <h4> Lista de Tarefas</h4>
-
+- [ ] Tarefa 1
 ________________________
 
-<h4> Tabelas</h4>
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-  
-  
