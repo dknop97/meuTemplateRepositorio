@@ -59,5 +59,7 @@ ________________________
 
 <h4> Lista de Tarefas</h4>
 - [ ] Tarefa 1
+- [X] Tarefa 2
+- [ ] \(Optional) Open a followup issue
 ________________________
 
