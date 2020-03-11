@@ -1,4 +1,6 @@
-<h1>testes de formatação do readme</h1>
+# Testes de formatação do readme
+
+![progress](https://progressed.io/bar/55?title=completed"progress")
 ________________________ 
 <h1>Lorem ipsum dolor sit amet
 <h2>Lorem ipsum dolor sit amet
@@ -50,7 +52,12 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 ________________________
 <h4> Lista de Tarefas</h4>
- 
+
+- [ ] Tarefa 1
+- [X] Tarefa 2
+- [ ] \(Optional) Tarefa 3
+- [X] Tarefa 4
+---
 1. [ ] Tarefa 1
 2. [X] Tarefa 2
 3. [ ] \(Optional) Tarefa 3
@@ -62,4 +69,17 @@ ________________________
 ![NodeMCU Amica](https://images.tcdn.com.br/img/editor/up/557243/ScreenHunter_639.jpg)
 
 ________________________
-<h4> -
+<h4> Tabelas
+ 
+ Nome  | Nota
+ ------|------
+ David | 100
+ DK    | 98
+ Knop  | 78
+ 
+________________________
+<h4> Barra de Progresso
+ 
+ ![progress](https://progressed.io/bar/86?title=completed"progress")
+ 
+ 
